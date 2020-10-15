@@ -1,0 +1,16 @@
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ClienteApi.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/configuration/HomeController.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/NotFoundException.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/model/ClientesRepository.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ApiException.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ApiOriginFilter.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/model/Cliente.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ClientesApiController.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ApiResponseMessage.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ClientesApi.java
+/home/luiz/Downloads/workspace/spring-server/src/main/java/io/swagger/api/ClienteApiController.java
